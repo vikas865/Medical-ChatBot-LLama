@@ -7,4 +7,3 @@ pypdf
 python-dotenv
 
 
--e .
